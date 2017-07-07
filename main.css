@@ -11,3 +11,16 @@ body{
   text-align: center;
   color:   #138d75;
 }
+li{
+  color: #000;
+  text-align: left;
+
+}
+p{
+  margin-left: 20px;
+}
+hr{
+  width: 600px;
+  color: green;
+  margin-left: 20px;
+}
