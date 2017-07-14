@@ -3,14 +3,16 @@ body{
 }
 #u{
   width: auto;
-  height: 50px;
-  background:  #145a32;
+  height: 80px;
+  background-image:  url(1.jpg);
+
   padding: 20px 20px;
   margin: 20px 20px;
-  line-height: 0px;
+  line-height: 5px;
   text-align: center;
   color:   #138d75;
   font-size: 20pt;
+  border-radius: 50px;
 }
 li{
   color: #000;
@@ -24,5 +26,8 @@ p{
 hr{
   width: 600px;
   color: green;
+  margin-left: 20px;
+}
+#i{
   margin-left: 20px;
 }
