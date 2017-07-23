@@ -1,7 +1,16 @@
 body{
-  background: #138d75;
+  background-image: url(Flat_Message.png);
+  background-size: 100px 100px;png);
+  background-repeat: no-repeat;
+  margin-top: 200px;
+}
+body:hover{
+  background-image: url(Flat_Message2.png);
+  background-size: 100px 100px;png);
+  background-repeat: no-repeat;
 }
 #u{
+  float: 200px;
   width: auto;
   height: 80px;
   background-image:  url(1.jpg);
@@ -10,12 +19,21 @@ body{
   margin: 20px 20px;
   line-height: 5px;
   text-align: center;
-  color:   #138d75;
+  color:   #FFF;
   font-size: 20pt;
   border-radius: 50px;
+  opacity: 0.4;
+}
+#menu{
+
+
+
+}
+#menu:hover{
+  background-image: url(Flat_Message2.png);
 }
 li{
-  color: #000;
+  color: #FFF;
   text-align: left;
 
 }
@@ -30,4 +48,5 @@ hr{
 }
 #i{
   margin-left: 20px;
+  color: gray;
 }

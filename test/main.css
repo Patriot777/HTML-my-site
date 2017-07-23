@@ -1,0 +1,144 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+body{
+	background: rgba(40, 40, 40, 1.0);
+	margin: 0px auto;
+}
+.header{
+	display: block;
+	padding-bottom:  2%;
+	background: #000;
+	padding: 20px;
+	
+}
+
+.messages{
+	color: #3067ab;
+	font-size: 12pt;
+	font-family: "Franklin Gothic heavy", verdana;
+	opacity: 0.7;
+}
+.messages:hover{
+	opacity: 1;
+}
+.al{
+	color: #92cf3f;
+	font-size: 12pt;
+	font-family: "Franklin Gothic heavy", verdana;
+	opacity: 0.7;
+}
+.al:hover{
+	opacity: 1;
+}
+.menu{
+	color: #005826;
+	font-size: 12pt;
+	font-family: "Franklin Gothic heavy", verdana;
+	opacity: 0.7;
+}
+.menu:hover{
+	opacity: 1;
+}
+
+.imgflat{
+	width: 50px;
+	height: 50px;
+}
+.logo{
+	width: 250px;
+}
+.vhid{
+	margin-top: 50px;
+	padding: 0px 0px;
+	height: 100%;
+
+	background: rgba(194, 194, 194, 1);
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.reestr{
+	margin-top: 50px;
+	padding: 0px 0px;
+	height: 100%;
+	background: rgba(194, 194, 194, 1);
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+}
+.ver{
+	height: 50px;
+	background: #80807f;
+	color: #FFF;
+	text-align: center;
+	font-size: 15pt;
+	padding-top: 10px;
+	
+}
+.kar{
+	height: 300px;
+	background-image: url(fon.png);
+}
+.em{
+	text-align: center;
+	color: #FFF;
+	font-size: 10pt;
+	padding-top: 30px;
+}
+.vvid{
+	width: 80%;
+	height: 30px;
+	background: #FFF;
+	text-align: center;
+	margin: 5px auto;
+	padding-top: 5px
+}
+
+.footer{
+	height: 60px;
+	background: #000;
+	text-align: center;
+	color: green;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+#email{
+	color: green;
+	margin-left: 20px;
+}
+#password{
+	margin-left: 5px;
+}
+.form1{
+	margin-top: 20px;
+}
+#button1{
+	background: #000;
+	color: #FFF;
+	border-style: none;
+	width: 50px;
+	height: 30px;
+	border-radius: 10px;
+}
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+#type1{
+	color: rgb(48,103,171);
+}
+#type{
+	color: rgb(48,171,123);
+}
+
+		/*Оформлення вікна входу*/
+#login{
+	border: 1px solid #FFF;
+	border-radius: 10px;
+}
+#exit{
+	color: #2E8B57;
+}
+.info{
+	color: #FFF;
+}
+#register{
+	
+}
